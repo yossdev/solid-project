@@ -2,6 +2,7 @@
   "name": "example-with-tailwindcss",
   "type": "module",
   "scripts": {
+	"start": "npx http-server ./dist",
     "dev": "vinxi dev",
     "build": "vinxi build",
     "start": "vinxi start"
